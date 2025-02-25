@@ -2,10 +2,6 @@
 
 The goal of this project is to develop a simple search engine that processes, tokenizes, and indexes the content of the book "MARX & ENGELS COLLECTED WORKS." The search engine aims to facilitate efficient retrieval of information within the text by creating an inverted index and providing a graphical user interface (GUI) for user interaction.
 
-# Contributors
-Zahra Alahmedi,          
-Osama Karim Kidwai,      
-Eric Rawlins
 
 # Prerequisites
 
